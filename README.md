@@ -6,5 +6,7 @@ I have separate into 3 categories: UIKit, SwiftUI and Common (for those that you
 ### Common
 - [Fonts](https://github.com/blorenzo10/SwiftUtilities/blob/master/Common%20/Fonts.swift "Fonts")
 
+### SwiftUI
+- [Separate views setup into variables](https://github.com/blorenzo10/swift-utilities/blob/master/SwiftUI/Views.swift)
 ### UIKit
 - [Constraints](https://github.com/blorenzo10/SwiftUtilities/blob/master/UIKit/Constraints.swift "Constraints")
