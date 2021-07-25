@@ -8,6 +8,7 @@ I have separate into 3 categories: UIKit, SwiftUI and Common (for those that you
 - [Array](https://github.com/blorenzo10/swift-utilities/blob/master/Common%20/Array.swift)
 - [Typealias](https://github.com/blorenzo10/swift-utilities/blob/master/Common%20/Typealias.swift)
 - [Factory Pattern](https://github.com/blorenzo10/swift-utilities/blob/master/Common%20/FactoryPattern.swift)
+- [Dates Formatter](https://github.com/blorenzo10/swift-utilities/blob/master/Common%20/DateFormatter.swift)
 
 ### SwiftUI
 - [Separate views setup into variables](https://github.com/blorenzo10/swift-utilities/blob/master/SwiftUI/Views.swift)
